@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(27, 104, 172);
+
+}
+
+h1{
+    font: normal 25px arial;
+    text-align: center;
+}
+
+div{
+    margin-left: 450px;
+    width: 450px;
+    height: 150px;
+    background-color: rgba(97, 100, 102, 0.425);
+    font: normal 15px arial;
+    text-align: center;
+    color: aliceblue;
+}
+div > p{
+
+    padding: 20px;
+}
